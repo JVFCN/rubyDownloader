@@ -16,4 +16,5 @@ output:
  
 >如果输入N/n/直接回车:  
 >下载已退出(以红色字体显示)  
+
 如果没有安装Ruby, 请先安装[Ruby](https://www.ruby-lang.org/en/)
