@@ -6,7 +6,7 @@ Ruby写的*命令行下载器*, 支持大部分文件类型
 input:`ruby downloader_main.rb [URL]`  
 output:  
 >URL TRUE(以绿色字体显示, 如果URL不合法,以红色字体显示URL FALSE)  
->Suffix:[文件格式](以绿色字体显示)  
+>Suffix:[文件格式]  (以绿色字体显示)  
 >文件名:[文件名].[文件格式]  
 >文件大小:[文件大小]KB(以合适的方法显示K, KB, MB, GB, 并保留两位小数)  
 >是否下载该文件?[Y/N]  
